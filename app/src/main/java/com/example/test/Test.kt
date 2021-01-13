@@ -11,9 +11,6 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.imageResource
 import androidx.compose.ui.unit.dp
 
-/**
- * Von Yannick Knoll am 2021-01-13 erstellt.
- */
 
 
 @Composable
